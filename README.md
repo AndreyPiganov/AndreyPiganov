@@ -59,6 +59,22 @@ Backend-разработчик с **более чем 2 годами комме�
 | **[My-bots](https://github.com/AndreyPiganov/My-bots)** | Три бота для автоматизации браузера: Zoom, обновление резюме и действия по расписанию. Скриншоты, логи и API. | TypeScript · NestJS · Puppeteer |
 | **[Difference Calculator](https://github.com/AndreyPiganov/Difference-calculator)** | CLI для сравнения JSON и YAML: построение и обход деревьев, разбор форматов, unit-тесты. | JavaScript · commander.js · Jest |
 
+#### 🧩 Тестовые задания
+
+| Проект | Что внутри | Стек |
+| --- | --- | --- |
+| **[Effective_mobile_backend](https://github.com/AndreyPiganov/Effective_mobile_backend)** | Три микросервиса: управление товарами и остатками, история действий через события RabbitMQ, массовое обновление данных пользователей. | TypeScript · JavaScript · NestJS · PostgreSQL · RabbitMQ · Docker |
+| **[class-backend](https://github.com/AndreyPiganov/class-backend)** | API поиска занятий с фильтрами по датам, преподавателям, статусу и количеству учеников; пагинация. | TypeScript · Express · PostgreSQL · Knex · Docker |
+| **[google-test](https://github.com/AndreyPiganov/google-test)** | Получение тарифов Wildberries по расписанию, накопление данных в PostgreSQL и выгрузка в Google Sheets с сортировкой по коэффициенту. | TypeScript · NestJS · PostgreSQL · Knex · Google Sheets API · Docker |
+| **[My_profile](https://github.com/AndreyPiganov/My_profile)** | GraphQL API цифровой визитки: профиль, навыки, опыт, проекты и профессиональные ссылки. Миграции и seed для базы данных. | TypeScript · NestJS · GraphQL · Apollo Server · Prisma · PostgreSQL · Docker |
+
+#### 🎓 Учебные проекты
+
+| Проект | Что внутри | Стек |
+| --- | --- | --- |
+| **[backend_dyplom](https://github.com/AndreyPiganov/backend_dyplom)** | Бэкенд дипломного проекта для тестирования знаний: пользователи, вопросы, варианты ответов, билеты и результаты тестирования. | TypeScript · NestJS · Prisma · PostgreSQL · JWT · Swagger |
+| **[RSS-reader](https://github.com/AndreyPiganov/RSS-reader)** | RSS-агрегатор: добавление источников, регулярная проверка обновлений и отображение новостей в одном интерфейсе. | JavaScript · Axios · Bootstrap · Yup · i18next · Webpack |
+
 ### 📊 GitHub-статистика
 
 <p align="center">
@@ -71,3 +87,4 @@ Backend-разработчик с **более чем 2 годами комме�
 </p>
 
 <sub>Карточка языков отражает код в репозиториях, а не уровень владения технологиями.</sub>
+
